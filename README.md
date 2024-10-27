@@ -14,3 +14,28 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## How to run project?
+
+### Open project in [Visual Studio Code](https://code.visualstudio.com/)
+
+### Installing [flutter 3.24.4](https://docs.flutter.dev/get-started/install/windows/mobile#install-the-flutter-sdk)
+
+Following **Start building Flutter Android apps on Windows** on [docs](https://docs.flutter.dev/get-started/install/windows/mobile)
+
+### Installing dependencies
+
+- Open terminal in Visual Studio Code
+
+```
+flutter pub get
+```
+
+### Start the app
+
+- Choose your emulator
+- Continue on terminal
+
+```
+flutter run
+```
